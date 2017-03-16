@@ -29,6 +29,7 @@ setInterval (function(clockStart){
   $("#finalCountdown").html(`${correction}`)
   $("#finalCountdown").css('background-color', backColor)
   $("body").css('background-color', opposite)
+  $("#finalCountdown").css("color", opposite)
  console.log(opposite)
 }, 1000)
 
