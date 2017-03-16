@@ -14,18 +14,12 @@ html {
 	color: #454425;
 }
 
-body{
-	height: 100%;
-	width:1368px;
-	margin:50px auto;
 
-}
 
 #finalCountdown {
-	line-height: 600px;
+	line-height: 400px;
 	margin:50px auto;
-	height: 1368px;
-	width: 1368px;
+	width: 700px;
 	text-align: center;
 
 
