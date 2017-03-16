@@ -10,7 +10,7 @@ html {
 	
 	font-weight: normal;
 	font-size: 108px;
-	font-family: 'Allerta Stencil', 'Michroma', sans-serif;
+	font-family: 'Michroma', sans-serif;
 	
 }
 
@@ -24,10 +24,10 @@ body{
 }
 
 #finalCountdown {
-	line-height: 600px;
+	line-height: 300px;
 	margin:50px auto;
 	height: 600px;
-	width: 600px;
+	width: 1000px;
 	text-align: center;
 
 
